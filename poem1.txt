@@ -6,6 +6,7 @@ orange
 red
 green
 violet
+Indigo
 unicorn
 yellow
 blue
